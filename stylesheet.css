@@ -1,0 +1,84 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Header Styles */
+.header {
+    background-color: #B69265;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px 8px 0 0;
+}
+
+.header h1 {
+    margin: 0;
+    color: #fff;
+    font-size: 24px;
+}
+
+/* Header Logo */
+.header-logo {
+    text-align: center;
+    margin: 0px 0;
+}
+
+.header-logo img {
+    border-radius: 0%;
+    width: 4000;
+    height: 10000;
+}
+
+/* Profile Image Styles */
+.profile-image {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.profile-image img {
+    border-radius: 0%;
+    width: 120px;
+    height: 150px;
+}
+
+/* Personal Information Styles */
+.personal-info {
+    padding: 5px;
+    border-top: 3px solid #363637;
+}
+
+.personal-info h2 {
+    color: #B69265;
+    margin-top: 0;
+    font-size: 20px;
+    padding-bottom: 5px;
+    border-bottom: 3px solid #363637;
+}
+
+/* Info Items Styles */
+.info-item {
+    padding: 10px;
+}
+
+.info-item {
+    margin: 5px 0;
+}
+
+.info-item strong {
+    display: inline-block;
+    width: 220px;
+    font-weight: bold;
+}
